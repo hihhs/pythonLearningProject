@@ -17,5 +17,6 @@ print("d %s, %s" %(a, b)) #多个变量站位
 
 
 
-
+def kao() -> bool:
+    return True
 
